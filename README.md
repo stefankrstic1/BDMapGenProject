@@ -41,7 +41,7 @@ The Procedural 2D Map Generator currently supports the following procedural algo
 
 - Cellular Automata: Create organic and cave-like terrain with cellular automata rules.
 - Binary Space Partitioning: Generate maze-like structures with BSP algorithms.
-- Random Walk Algorithm: Design paths and natural formations using random walks.
+- Random Walk Algorithm (utilizing Binary Space Partitioning): Design paths and natural formations using random walks within BSP-generated environments.
 - Perlin Noise: Under development to add natural, continuous noise patterns to your maps.
 
 ## Contributing:
